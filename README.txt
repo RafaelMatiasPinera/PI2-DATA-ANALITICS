@@ -20,9 +20,9 @@ Recursos:
 Nota:
 Los pasos seguidos en este trabajo se exponen cronológicamente en el JupiterNotebook denominado "PI2.ipynb".
 A su vez en el mencionado archivo se observan gráficos, como también mapas interactivos.
-Respecto de los KPIS, se pueden visualizar en DASHBOARD.PY (Dashboard generado con la librería DE PYTHON Dash).
+Respecto de los KPIS, se pueden visualizar en DASHBOARD.PY (Dashboard generado con la librería de PYTHON Dash).
 Dadas las limítaciones de la librería, se optó a su vez por presentar un DashBoard en Google Sheets.
-(Se optó por usar estas tecnologías, antes que Tableau, o Power BI, debido a que utilizo el sistema operativo UBUNTU linux y no encontré forma de correr dichos programas)
+(Se optó por usar estas tecnologías -antes que Tableau o Power BI- debido a que utilizo el sistema operativo UBUNTU linux y no encontré forma de correr dichos programas)
 
 Pasos:
 PRIMERO:
